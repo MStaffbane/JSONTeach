@@ -30,7 +30,8 @@
 	"Software Development and Application Modelling":"C sharp has string interning, strings in your application that get compiled gets put inside an in-memory list referenced at run-time."
 	"Software Development and Application Modelling":"Private instance variables of a class can be accessed by other instances: only a certain class can access this private instance which includes other instances of this class. This is useful for some comparison methods."
 	},
-	"The Zen of Python, by Tim Peters":"Beautiful is better than ugly.
+	"The Zen of Python, by Tim Peters":{
+	"Beautiful is better than ugly.
 	Explicit is better than implicit.
 	Simple is better than complex.
 	Complex is better than complicated.
