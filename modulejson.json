@@ -1,0 +1,48 @@
+{
+	"Robotic Design and Worlds": {
+		"James Mccarren": {
+			"Fact": ["The boom in scientific discoveries and advancements in technology inspired many artists to think about the future in 2000. Robots were imagined to do unproductive work of everyday life such as: vacuum cleaning. grooming. washing floor. washing clothes and cooking food. However these robots have only managed some of these tasks.",
+				"Vacuum cleaning robots are very successful than most other domestic robot. Millions of vacuum cleaning robots have already been sold and the number is increasing rapidly. They are advanced enough to reach every corner of the home for cleaning without human assistance. They can recharge themselves and have other features included using wifi functions.",
+				"The Robotic industry was developing in the 1980s and the public could purchase robotic toys for kids. These toy robots were equipped with microcontrollers that guided robots how to walk dance and sing. Today these same robots are more sophisticated and can actually respond to kids. Imagine that.",
+				"Humanoid robots are the most anticipated kind of robots. Engineers have been working on many complex problems to make this humanoid robot successful. Some of the main problems were computer vision artificial intelligence balancing systems and battery timing. One of the most advanced humanoid robot - Honda's ASIMO Has an excellent balancing system on feet with human like legs. It's complex ai program installed can interact with humans and avoid obstacles while walking.",
+				"George Devol and Joseph Engelberger in 1959 became the first people to make a company called Unimation they designed and manufacted industrial robots. They introduced the first industrial robot to industries. The industrial robots are used for the specialized task in the industries to be performed autonomously."
+			]
+		}
+	},
+	"Digital Tech": {
+		"Robin Oldham": {
+			"Fact": ["While diverse teams are better more creative and get more done - successful teams need a good communicator and co-ordinator. Every team needs this person: they are called - a manager. Team managers involve setting team priorities and performance objectives reviewing performance and methods employed and spearheading the team's decision-making process.",
+				"More than 1 trillion dollars in IT spending will directly or indirectly affected by the shift to cloud during the next five years.(Gartner 2016). The numbers today have surpassed previous expectations. Cloud enables redundancy. simple data transfer and backups. You'll never lose information important to you. Far more secure than traditional storage and processing because it is safeguarded by security experts that are up-to-date with the most recent threats.",
+				"Quantum dots (QDs) are small human-made semiconductor particals. Typically their size goes nothing more than 10 nanometers. They are employed in varied fields including medical technology industries and communications.",
+				"Run Length Encoding may use a string of bytes to represent part of an image. Bytes are given as 2 hex digits to identify where key bytes are: you define the binary representation for the key byte. Write out the key byte and the bytes that follow on from it. This will give you the data processed into a compressed form.",
+				"Phase Change Memory is a type of non-volatile computer memory (NVRAM) that is sometimes referred to as Perfect RAM due to its superior performance characteristics. Phase Change memory is also referred to as PCM and PCRAM. Some industry experts believe PCM may be the data storage technology of the future replacing hard drives with solid state drives."
+			]
+		}
+	},
+	"Ai and Chat Bots": {
+		"Mohammed Sedky": {
+			"Fact": ["RapidMiner Studio is a visual data science workflow designer accelerating the prototyping & validation of models. How are you getting on with this mark?",
+				"Data Preparation capabilities can handle any real-life data transformation challenges. You can format and create optimal data sets for predictive analytics. This blends structured data with unstructured data and leverage all data for predictive analysis. Any data preparation process can be saved for reuse - better save yours Mark.",
+				"Association Rules Operator can generate a set of rules and a set of associated items. When mining text using the operator tokenize - the words in the text must be grouped together and counted. Without some numeric structure - the computer cannot assess the meaning of the words."
+			]
+		}
+	},
+	"Ai & Chat Bots": {
+		"Fiona Knight": {
+			"Fact": ["Despite the fact there are similarities between JavaScript and Java including language name respective standard libraries and syntax these two languages are distinct and differ significantly in design.",
+				"Alexa's most popular skill is setting a timer. Guess people don't use stopwatches.",
+				"Alexa Skill Kit is a collection of APIs and tools. This handles the hard work related to voice interfaces. Including speech recognition. Text-to-speech encoding and natural language processing. Alexa can understand a user's voice command when the skils have been defined. Most of Alexa's skills are handled by Alexa's own logic."
+			]
+		}
+	},
+	"Software Development and Application Modelling": {
+		"Graham Mansfield": {
+			"Fact": ["A poem by Tim Peters named The Zen of Python. This can be read by writing import this in the interpreter. Ask me to read The Zen of Python sometime.",
+				"You can use an else clause with a for loop in Python. This special type of syntax executes only if the for loop exits naturally without break statements.",
+				"The name of C sharp language is strimulated by the musical notation. Here sharp represents the written note should be made a semitone higher in pitch.",
+				"C sharp has string interning strings in your application that get compiled gets put inside an in-memory list referenced at run-time.",
+				"Private instance variables of a class can be accessed by other instances: only a certain class can access this private instance which includes other instances of this class. This is useful for some comparison methods."
+			]
+		}
+	}
+}
