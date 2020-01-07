@@ -11,19 +11,19 @@
 	},
 	"Digital Tech": {
 		"Robin Oldham": {
-			"Fact": ["While diverse teams are better more creative and get more done - successful teams need a good communicator and co-ordinator. Every team needs this person: they are called - a manager. Team managers involve setting team priorities and performance objectives reviewing performance and methods employed and spearheading the team's decision-making process.",
-				"More than 1 trillion dollars in IT spending will directly or indirectly affected by the shift to cloud during the next five years.(Gartner 2016). The numbers today have surpassed previous expectations. Cloud enables redundancy. simple data transfer and backups. You'll never lose information important to you. Far more secure than traditional storage and processing because it is safeguarded by security experts that are up-to-date with the most recent threats.",
-				"Quantum dots (QDs) are small human-made semiconductor particals. Typically their size goes nothing more than 10 nanometers. They are employed in varied fields including medical technology industries and communications.",
-				"Run Length Encoding may use a string of bytes to represent part of an image. Bytes are given as 2 hex digits to identify where key bytes are: you define the binary representation for the key byte. Write out the key byte and the bytes that follow on from it. This will give you the data processed into a compressed form.",
-				"Phase Change Memory is a type of non-volatile computer memory (NVRAM) that is sometimes referred to as Perfect RAM due to its superior performance characteristics. Phase Change memory is also referred to as PCM and PCRAM. Some industry experts believe PCM may be the data storage technology of the future replacing hard drives with solid state drives."
+			"Fact": ["Team managers involve setting team priorities and performance objectives reviewing performance and methods employed and spearheading the team's decision-making process.",
+				"More than 1 trillion dollars in IT spending will directly or indirectly affected by the shift to cloud during the next five years.(Gartner 2016).",
+				"Quantum dots (QDs) are small human-made semiconductor particals. Typically their size goes nothing more than 10 nanometers.",
+				"Run Length Encoding may use a string of bytes to represent part of an image. Bytes are given as 2 hex digits to identify where key bytes are: you define the binary representation for the key byte.",
+				"Phase Change Memory is a type of non-volatile computer memory (NVRAM) that is sometimes referred to as Perfect RAM due to its superior performance characteristics."
 			]
 		}
 	},
 	"Ai and Chat Bots": {
 		"Mohammed Sedky": {
-			"Fact": ["RapidMiner Studio is a visual data science workflow designer accelerating the prototyping & validation of models. How are you getting on with this mark?",
-				"Data Preparation capabilities can handle any real-life data transformation challenges. You can format and create optimal data sets for predictive analytics. This blends structured data with unstructured data and leverage all data for predictive analysis. Any data preparation process can be saved for reuse - better save yours Mark.",
-				"Association Rules Operator can generate a set of rules and a set of associated items. When mining text using the operator tokenize - the words in the text must be grouped together and counted. Without some numeric structure - the computer cannot assess the meaning of the words."
+			"Fact": ["RapidMiner Studio is a visual data science workflow designer accelerating the prototyping & validation of models.",
+				"Data Preparation capabilities can handle any real-life data transformation challenges. You can format and create optimal data sets for predictive analytics.",
+				"When mining text using the operator tokenize - the words in the text must be grouped together and counted. Without some numeric structure - the computer cannot assess the meaning of the words."
 			]
 		}
 	},
@@ -31,7 +31,7 @@
 		"Fiona Knight": {
 			"Fact": ["Despite the fact there are similarities between JavaScript and Java including language name respective standard libraries and syntax these two languages are distinct and differ significantly in design.",
 				"Alexa's most popular skill is setting a timer. Guess people don't use stopwatches.",
-				"Alexa Skill Kit is a collection of APIs and tools. This handles the hard work related to voice interfaces. Including speech recognition. Text-to-speech encoding and natural language processing. Alexa can understand a user's voice command when the skils have been defined. Most of Alexa's skills are handled by Alexa's own logic."
+				"Alexa Skill Kit is a collection of APIs and tools. This handles the hard work related to voice interfaces. Including speech recognition. Text-to-speech encoding and natural language processing."
 			]
 		}
 	},
