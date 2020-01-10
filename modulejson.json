@@ -1,48 +1,72 @@
 {
-	"Robotic Design and Worlds": {
-		"James Mccarren": {
-			"Fact": ["The boom in scientific discoveries and advancements in technology inspired many artists to think about the future in 2000. Robots were imagined to do unproductive work of everyday life such as: vacuum cleaning. grooming. washing floor. washing clothes and cooking food. However these robots have only managed some of these tasks.",
-				"Vacuum cleaning robots are very successful than most other domestic robot. Millions of vacuum cleaning robots have already been sold and the number is increasing rapidly. They are advanced enough to reach every corner of the home for cleaning without human assistance. They can recharge themselves and have other features included using wifi functions.",
+	{
+	"Fact": [
+		{
+			"The Zen of Python, by Tim Peters." : "Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one and preferably only one obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than *right* now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea let's do more of those!"
+			"More about Vacuums" : "According to PCMag.com Vacuums have come a long way. You no longer have to suffer the indignity of dragging around an unwieldy plastic hose connected to a clumsy, wheeled canister the size of a Galapagos tortoise. In fact, you don’t even need to get off of the couch. Though it still feels like a relatively new product category, there are several good robot vacuums available to help you dispose of dust, pet hair and other debris in your home – without needing to lift a finger. For more information please visit the PCMag.com website."
+		}
+		]
+	},
+	"Module": "Robotic Design and Worlds": {
+		"Lecturer" : "James Mccarren": {
+			"Fact": [
+				{
+				"The boom in scientific discoveries and advancements in technology inspired many artists to think about the future in 2000. Robots were imagined to do unproductive work of everyday life such as: vacuum cleaning. grooming. washing floor. washing clothes and cooking food. However these robots have only managed some of these tasks.",
+				"Vacuum cleaning robots are very successful than most other domestic robot. Millions of vacuum cleaning robots have already been sold and the number is increasing rapidly.",
 				"The Robotic industry was developing in the 1980s and the public could purchase robotic toys for kids. These toy robots were equipped with microcontrollers that guided robots how to walk dance and sing. Today these same robots are more sophisticated and can actually respond to kids. Imagine that.",
-				"Humanoid robots are the most anticipated kind of robots. Engineers have been working on many complex problems to make this humanoid robot successful. Some of the main problems were computer vision artificial intelligence balancing systems and battery timing. One of the most advanced humanoid robot - Honda's ASIMO Has an excellent balancing system on feet with human like legs. It's complex ai program installed can interact with humans and avoid obstacles while walking.",
+				"Humanoid robots are the most anticipated kind of robots. Engineers have been working on many complex problems to make this humanoid robot successful. Some of the main problems were computer vision artificial intelligence balancing systems and battery timing.",
 				"George Devol and Joseph Engelberger in 1959 became the first people to make a company called Unimation they designed and manufacted industrial robots. They introduced the first industrial robot to industries. The industrial robots are used for the specialized task in the industries to be performed autonomously."
-			]
+				}
+				]
 		}
 	},
-	"Digital Tech": {
-		"Robin Oldham": {
-			"Fact": ["Team managers involve setting team priorities and performance objectives reviewing performance and methods employed and spearheading the team's decision-making process.",
+	"Module" : "Digital Tech": {
+		"Lecturer" : "Robin Oldham": {
+			"Fact": [
+				{
+				"Team managers involve setting team priorities and performance objectives reviewing performance and methods employed and spearheading the team's decision-making process.",
 				"More than 1 trillion dollars in IT spending will directly or indirectly affected by the shift to cloud during the next five years.(Gartner 2016).",
 				"Quantum dots (QDs) are small human-made semiconductor particals. Typically their size goes nothing more than 10 nanometers.",
 				"Run Length Encoding may use a string of bytes to represent part of an image. Bytes are given as 2 hex digits to identify where key bytes are: you define the binary representation for the key byte.",
 				"Phase Change Memory is a type of non-volatile computer memory (NVRAM) that is sometimes referred to as Perfect RAM due to its superior performance characteristics."
-			]
+				}
+				]
 		}
 	},
-	"Ai and Chat Bots": {
-		"Mohammed Sedky": {
-			"Fact": ["RapidMiner Studio is a visual data science workflow designer accelerating the prototyping & validation of models.",
+	"Module" :"Ai and Chat Bots": {
+		"Lecturer" : "Mohammed Sedky": {
+			"Fact": [
+				{
+				"RapidMiner Studio is a visual data science workflow designer accelerating the prototyping & validation of models.",
 				"Data Preparation capabilities can handle any real-life data transformation challenges. You can format and create optimal data sets for predictive analytics.",
 				"When mining text using the operator tokenize - the words in the text must be grouped together and counted. Without some numeric structure - the computer cannot assess the meaning of the words."
-			]
+				}
+				]
 		}
 	},
-	"Ai & Chat Bots": {
-		"Fiona Knight": {
-			"Fact": ["Despite the fact there are similarities between JavaScript and Java including language name respective standard libraries and syntax these two languages are distinct and differ significantly in design.",
+	"Module":"Ai & Chat Bots": {
+		"Lecturer":"Fiona Knight": {
+			"Fact": 
+				[
+				{
+				"Despite the fact there are similarities between JavaScript and Java including language name respective standard libraries and syntax these two languages are distinct and differ significantly in design.",
 				"Alexa's most popular skill is setting a timer. Guess people don't use stopwatches.",
 				"Alexa Skill Kit is a collection of APIs and tools. This handles the hard work related to voice interfaces. Including speech recognition. Text-to-speech encoding and natural language processing."
-			]
+				}
+				]
 		}
 	},
-	"Software Development and Application Modelling": {
-		"Graham Mansfield": {
-			"Fact": ["A poem by Tim Peters named The Zen of Python. This can be read by writing import this in the interpreter. Ask me to read The Zen of Python sometime.",
+	"Module":"Software Development and Application Modelling": {
+		"Lecturer":"Graham Mansfield": {
+			"Fact": [
+				{
+				"A poem by Tim Peters named The Zen of Python. This can be read by writing import this in the interpreter. Ask me to read The Zen of Python sometime.",
 				"You can use an else clause with a for loop in Python. This special type of syntax executes only if the for loop exits naturally without break statements.",
 				"The name of C sharp language is strimulated by the musical notation. Here sharp represents the written note should be made a semitone higher in pitch.",
 				"C sharp has string interning strings in your application that get compiled gets put inside an in-memory list referenced at run-time.",
 				"Private instance variables of a class can be accessed by other instances: only a certain class can access this private instance which includes other instances of this class. This is useful for some comparison methods."
-			]
+				}
+				]
 		}
 	}
 }
